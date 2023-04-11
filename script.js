@@ -1,4 +1,4 @@
-(function() {
+(function () {
     'use strict';
 
     const button = document.querySelector('button');
@@ -7,7 +7,7 @@
     const sections = document.querySelectorAll('section')
     let mode = 'Work';
 
-    button.addEventListener('click', function() {
+    button.addEventListener('click', function () {
         if (mode === 'Work') {
             body.className = 'switch';
             banner.className = 'switch';
