@@ -40,8 +40,8 @@ header {
     width: 1100px;
     height: 250px;
     margin: auto;
-    background-color: rgb(235, 235, 235);
-    /*background-image: url("images/work_bg.png");*/
+    /*background-color: rgb(235, 235, 235);*/
+    background-image: url("images/work_mode.png");
     color: #333;
     overflow: hidden;
     display: grid;
